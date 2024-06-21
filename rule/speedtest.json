@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "ooklaserver.net",
+        "speedtest.net"
+      ]
+    }
+  ],
+  "version": 1
+}

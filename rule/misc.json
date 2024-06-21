@@ -1,0 +1,20 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "5eplay"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "edgesrv.com",
+        "educoder.net",
+        "fyscs.com",
+        "huijiwiki.com",
+        "nvidia.com",
+        "upkk.com"
+      ]
+    }
+  ],
+  "version": 1
+}
