@@ -2,11 +2,14 @@
   "rules": [
     {
       "domain_keyword": [
-        "5eplay"
+        "5eplay",
+        "maoxiongnet"
       ]
     },
     {
       "domain_suffix": [
+        "aifast.komect.com",
+        "api.jihujiasuqi.com",
         "edgesrv.com",
         "educoder.net",
         "fyscs.com",
