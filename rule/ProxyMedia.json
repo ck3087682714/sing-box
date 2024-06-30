@@ -5,7 +5,6 @@
         "44wilhpljf.execute-api.ap-southeast-1.amazonaws.com",
         "aod-dash-uk-live.akamaized.net",
         "aod-hls-uk-live.akamaized.net",
-        "api-abematv.bucketeer.jp",
         "api.viu.now.com",
         "atv-ps.amazon.com",
         "avodmp4s3ww-a.akamaihd.net",
@@ -98,7 +97,6 @@
     {
       "domain_suffix": [
         "5itv.tv",
-        "abema-tv.com",
         "abema.io",
         "abema.tv",
         "aboutamazon.com",
@@ -178,7 +176,6 @@
         "haiwaikan.com",
         "happyon.jp",
         "hayabusa.io",
-        "hayabusa.media",
         "hbo.com",
         "hboasia.com",
         "hbogo.com",
