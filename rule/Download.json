@@ -12,7 +12,8 @@
         "(.+\.|^)(360|so)\.(cn|com)",
         "(.?)(xunlei|sandai|Thunder|XLLiveUD)(.)",
         "(Subject|HELO|SMTP)",
-        "(api|ps|sv|offnavi|newvector|ulog.imap|newloc)(.map|).(baidu|n.shifen).com"
+        "(api|ps|sv|offnavi|newvector|ulog.imap|newloc)(.map|).(baidu|n.shifen).com",
+        "assets\d+\.xboxlive\.(com|cn)"
       ]
     },
     {
